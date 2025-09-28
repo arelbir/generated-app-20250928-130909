@@ -2,7 +2,7 @@
 
 A visually stunning and high-performance management suite for modern fitness studios, streamlining scheduling, member management, and financial tracking.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/arelbir/generated-app-20250928-130909)
 
 ## Overview
 
@@ -100,7 +100,7 @@ This project is configured for seamless deployment to Cloudflare.
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/arelbir/generated-app-20250928-130909)
 
 ## Contributing
 
